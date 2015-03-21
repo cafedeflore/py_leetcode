@@ -1,4 +1,6 @@
 __author__ = 'Nan'
-
-
-print 'B'- 'A'
+buckets = {}
+print type(buckets)
+print int(0.8* 1.0)
+a = "123456"
+print a[::-1]

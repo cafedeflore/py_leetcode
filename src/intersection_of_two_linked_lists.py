@@ -39,4 +39,5 @@ class Solution:
             temp_a = temp_a.next
             temp_b = temp_b.next
 
+
         return None

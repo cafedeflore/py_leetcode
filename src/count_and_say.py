@@ -32,8 +32,8 @@ class Solution:
             if p2 > p_max:
                 result += "%d%s" % (count, type)
                 break
-        print result
+        # print result
         return result
 
 s = Solution()
-s.countAndSay(5)
+print s.countAndSay(5)
